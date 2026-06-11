@@ -1,40 +1,39 @@
- Enterprise Risk Register
+# Enterprise Risk Management (ERM) Portfolio
 
- Project Overview
+## Project Overview
 
-This project demonstrates an enterprise risk management (ERM) process used to identify, assess, prioritize, and monitor organizational risks.
+This repository demonstrates Enterprise Risk Management (ERM) capabilities across risk governance, risk assessment, risk treatment, risk monitoring, executive reporting, and enterprise risk oversight.
 
- Objectives
+The portfolio contains practical ERM artifacts commonly used by Risk Managers, GRC professionals, IT Risk teams, Internal Audit functions, and Enterprise Risk Management programs.
 
-- Identify business and technology risks
-- Assess likelihood and impact
-- Assign risk owners
-- Define mitigation plans
-- Monitor residual risk
+## Frameworks Referenced
 
-Frameworks Referenced
-
-- NIST CSF
-- ISO 27001
 - COSO ERM
+- ISO 31000
+- NIST Risk Management Framework
+- NIST Cybersecurity Framework
 - COBIT
+- SOX
+- ISO 27001
 
-Project Deliverables
+## Portfolio Components
 
 - Enterprise Risk Register
+- Risk Governance Framework
 - Risk Assessment Methodology
-- Executive Risk Summary
-- Risk Heat Map
+- Risk Scoring Methodology
+- Risk Heat Maps
+- Risk Treatment Plans
+- Risk Ownership Matrix
+- Key Risk Indicator (KRI) Dashboard
+- Executive Risk Dashboard
+- Board Reporting Templates
 
-Sample Risk Categories
+## Objectives
 
-- Cybersecurity Risk
-- Compliance Risk
-- Third-Party Risk
-- Operational Risk
-- Financial Risk
-- Strategic Risk
-
-Status
-
-In Progress
+- Identify enterprise risks
+- Assess likelihood and impact
+- Prioritize risk treatment activities
+- Assign risk ownership
+- Monitor residual risk
+- Support executive decision-making
